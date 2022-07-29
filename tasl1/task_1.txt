@@ -1,0 +1,13 @@
+Шрифт: Poppins
+
+Размер шрифта заголовка: 40px
+
+Цвет шрифта для описания: #486958
+
+Размер шрифта для описания: 30px
+
+Контент заголовка: Our mission is to deliver aesthetic visual for your home
+
+Контент параграфа:  By applying bacis psychology principles, we are going to explain how perception works and how we can use this understanding to maximise the space that we occupy in our homes.
+
+Задача: сверстать также как и на картинке, верстка должна быть адаптивной, создать репозиторий в гитхабе и залить этот таск

@@ -1,0 +1,15 @@
+Шрифт: Poppins
+
+Размер заголовка: 70px
+
+Размер текста: 30px
+
+Цвет фона кнопки: #58A9A5
+
+Цвет текста параграфа: #404242
+
+Контент заголовка: Get the inspiration of interior design here
+
+Контент параграфа: architecture not only about engineering, it even lands to art and aesthetics. With us, you will get a residentical design with an extraordinary touch of art.
+
+Задача: сверстать также как и на картинке, верстка должна быть адаптивной, создать отдельный репозиторий в гитхабе и залить туда этот таск
